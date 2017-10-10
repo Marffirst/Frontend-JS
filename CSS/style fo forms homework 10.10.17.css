@@ -1,0 +1,24 @@
+#title {
+    border: none;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 10px;
+    width: 40%;
+}
+div {
+    /*margin-left: 30%;
+    margin-right: 30%;*/
+    margin-top: 10px;
+    /*width: 40%;*/
+    border: solid 1px black;
+    border-radius: 5px;
+    padding: 10px;
+}
+#submit {
+    margin-top: 10px;
+    border: none;
+    padding: 10px;
+}
+p {
+    font-style: italic;
+}
